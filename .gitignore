@@ -1,0 +1,36 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# NetBeans specific #
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IDE specific folders #
+.vs/
+.jetro/
+.vscode/
+
+# Database / IDE generated files #
+*.ssms_suo
+
+# OS generated files #
+.DS_Store
+Thumbs.db
